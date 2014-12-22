@@ -35,7 +35,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Moses vnuailed: or Those figures which serued vnto the patterne and shaddow of heauenly things, poin
+
+1. TO THE RIGHT REVEREND, MOST GRAVE, LEARned, and worthy Prelate, and Father in GOD, My Lord Bishop of Winchester.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
